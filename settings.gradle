@@ -1,0 +1,2 @@
+include ':app', ':debugactivity'
+rootProject.name='HumorDemoClient'
